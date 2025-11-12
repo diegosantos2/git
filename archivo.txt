@@ -1,4 +1,7 @@
 primera linea 
+<<<<<<< HEAD
+segunda linea de diego (no sabe de ana aun)
+=======
 segunda linea de ana
+<<<<<<< HEAD
 tercera linea de ana_de_diego
-cuarta linea de ana de diego 
