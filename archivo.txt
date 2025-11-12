@@ -1,2 +1,6 @@
 primera linea 
+<<<<<<< HEAD
 segunda linea de diego (no sabe de ana aun)
+=======
+segunda linea de ana
+>>>>>>> 01ae018bb685705c8fa6a2b598c465a949ca45f8
